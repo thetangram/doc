@@ -21,5 +21,5 @@ That's why this project has **two main objetives**:
 
 References and externals links
 ------------------------------
-
+[Tangram figures](https://www.tangram-channel.com/geometrical-shapes-easy/)
 [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
