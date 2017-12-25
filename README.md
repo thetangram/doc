@@ -19,7 +19,17 @@ That's why this project has **two main objetives**:
   - Build a **proof of concept server-side implementation**, to evaluate the assumptions we'll get.
 
 
+Development documentation 
+-------------------------
+  - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) 
+  - [Git Common-Flow](https://commonflow.org/) 
+  - [Shell Style Guide](https://google.github.io/styleguide/shell.xml). A guide to follow if some shell scripts are needed. 
+
+
 References and externals links
 ------------------------------
-[Tangram figures](https://www.tangram-channel.com/geometrical-shapes-easy/)
-[Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
+  - [MDN - Using data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes) 
+  - [Tangram figures](https://www.tangram-channel.com/geometrical-shapes-easy/)
+  - [Unidirectional User Interface Architectures](http://staltz.com/unidirectional-user-interface-architectures.html)
+
+
